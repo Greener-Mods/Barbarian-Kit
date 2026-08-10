@@ -1,23 +1,38 @@
 # Barbarian-kit
 
-BARBARIAN: A Barbarian can be an excellent warrior. While not as disciplined or as skilled as a Fighter, <PRO_HISHER> exceptional mobility, endurance, and resilience make <PRO_HIMHER> a formidable opponent.
+This kit has been adapted from a variety of AD&D 1e and 2e resources and tested with BGEE and BG2EE. 
+
+BATTLERAGER: The Battlerager fills a particular niche in dwarf society and culture. He is a fearless warrior, able to create an insane rage within himself that increases his fighting ability while distorting his physical features. When enraged, a Battlerager's face twists into a terrifying grimace; his teeth grind together, spittle flies from his mouth, and his eyes bulge and redden with fury. His muscles swell and his body expands, granting him the strength to fight longer and harder than any other dwarf. In this state, he is nearly unstoppable—but also a danger to friend and foe alike.
 
 Advantages:
-- Begins with a +2 bonus to Movement Rate.
-- Begins with a +2 bonus to all Saving Throws.
-- May use the Barbarian Rage ability once per day. Gains one use at level 1 and an additional use every 4 levels thereafter.
+- May use the Rage ability once per day, plus one additional use every 4 levels thereafter.
 
-BARBARIAN RAGE: For 1 turn, the Barbarian gains a +2 bonus to Strength, a +2 bonus to Movement Rate, a +2 bonus to all Saving Throws, and becomes immune to fear and morale failure. During this time, the Barbarian suffers a -2 penalty to Armor Class and cannot use items or special abilities.
-
-- 5th level: Becomes immune to backstab and fatigue.
-- 10th level: Gains 10% resistance to crushing, slashing, piercing, and missile damage and gains an additional 5% every 5 levels to a maximum of 20% at level 20.
-
-- Hit Die: d12; gains 4 Hit Points per level after 9th level.
-- Naturally recovers 1 Hit Point per turn.
+RAGE: For 1 turn, the Battlerager gains a +1 bonus to hit, +3 bonus to damage, +1 temporary Hit Point per level, +1 bonus to Armor Class, +1 bonus to Movement Rate, and becomes immune to blindness, charm, confusion, fear, feeblemind, hold, sleep, stun and related effects. During this time, the Battlerager may only move and attack, is unaware of <PRO_HISHER> current Hit Points, and has a 2% chance each round of going berserk, attacking friend and foe alike. After the rage subsides <PRO_HESHE> becomes fatigued and suffers a -2 penalty to Strength for 1 turn.
 
 Disadvantages:
-- Race restricted to human.
+- Race restricted to dwarf.
 - Alignment restricted to any non-lawful.
-- May only wear leather, studded leather, and hide armor.
-- May not exceed Specialization (two slots) with any weapon or fighting style.
-- May not dual-class.
+- May not use missile weapons that cannot also be used in melee combat.
+- May not multi-class.
+
+High Level Ability:
+
+BARBARIAN HORDE: With a terrifying war cry, the Barbarian calls forth a veteran warrior from <PRO_HISHER> barbarian horde to fight alongside <PRO_HIMHER> for 2 turns. The summoned warrior is created at 60% of the Barbarian's level and possesses the class abilities and Hit Points of a Barbarian of that level.
+
+**INSTALLATION**
+                
+This is a WEIDU mod thus currently should be compatible with other mods.
+
+	1 - Extract the contents of the zip file into your override folder.
+
+	2 - Run WeiDU and install.
+ 
+**FUTURE CHANGES**  
+
+None planned
+
+**COPYRIGHT**
+
+It can be used by anyone, at any time, anywhere at your own risk.
+
+THANK YOU to jmerry and CamDawg for your support along the way.
