@@ -26,7 +26,7 @@ Disadvantages:
 
 High Level Ability:
 
-BARBARIAN HORDE: With a terrifying war cry, the Barbarian calls forth a veteran warrior from <PRO_HISHER> barbarian horde to fight alongside <PRO_HIMHER> for 2 turns. The summoned warrior is created at 60% of the Barbarian's level and possesses the class abilities and Hit Points of a Barbarian of that level.
+BARBARIAN HORDE: With a terrifying war cry, the Barbarian calls forth a veteran warrior from his barbarian horde to fight alongside him for 2 turns. The summoned warrior is created at 60% of the Barbarian's level and possesses the class abilities and Hit Points of a Barbarian of that level.
 
 **INSTALLATION**
                 
