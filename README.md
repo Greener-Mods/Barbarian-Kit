@@ -1,4 +1,4 @@
-# Barbarian-kit
+# Barbarian-Kit
 
 This kit has been adapted from a variety of AD&D 1e and 2e resources and tested with BGEE and BG2EE. 
 
