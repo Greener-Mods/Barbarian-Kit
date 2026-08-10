@@ -1,6 +1,6 @@
 # Barbarian-Kit
 
-This kit has been adapted from a variety of AD&D 1e and 2e resources and tested with BGEE and BG2EE. 
+This kit has been adapted from a variety of AD&D 1e and 2e resources and tested with BGEE and BG2EE.
 
 BARBARIAN: A Barbarian can be an excellent warrior. While not as disciplined or as skilled as a Fighter, his exceptional mobility, endurance, and resilience make him a formidable opponent.
 
