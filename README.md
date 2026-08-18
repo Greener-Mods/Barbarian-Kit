@@ -32,9 +32,11 @@ BARBARIAN HORDE: With a terrifying war cry, the Barbarian calls forth a veteran 
                 
 This is a WEIDU mod thus currently should be compatible with other mods.
 
-	1 - Extract the contents of the zip file into your override folder.
+	1 - To be install after all mods that add items.
 
-	2 - Run WeiDU and install.
+	2 - Extract the contents of the zip file into your override folder.
+
+	3 - Run WeiDU and install.
  
 **FUTURE CHANGES**  
 
